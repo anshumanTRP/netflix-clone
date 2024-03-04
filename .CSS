@@ -1,0 +1,16 @@
+.BDY {
+  background-image: url(https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FNetflix-Blur-copy.jpg&signature=ef28f8d648b87784ab39cde977f74635);
+  color: rgb(4, 3, 3);
+  background-size: 100%;
+}
+.main {
+  text-align: center;
+  margin-top: 280px;
+  font-size: 80px;
+  font-family: sans-serif;
+  text-shadow: -8px -1px 20px rgb(236, 222, 222);
+
+  font-stretch: extra-condensed;
+  margin-bottom: 900px;
+  background-size: 100%;
+}
